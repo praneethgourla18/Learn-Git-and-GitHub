@@ -23,4 +23,16 @@ git log (To view the history of commits)
 git reset commit_Id  (to go back to that commit means delete the commits until this one)
 
 
-git stash (to store them some where else backstage)
+git stash (to store them some where else backstage) 
+
+git remote add origin "your github repo link"  (We will use this to link our local project and the github repo --//if you havent created a github repo just go to github and create a repo and copy there )
+
+//Now the local project and repo is connected but it will not show the commits to see our commits in repo we need to push the changes to it
+
+git push origin master (to push the changes)
+
+*** Branches ***  (you should always have multiple branches for multiple commits because if you have only one branch then only 1 pull request will be created for multiple commits)
+git branch praneeth -->(to create a new branch praneeth)
+
+git checkout praneeth --> (to switch to the 'Praneeth' branch
+
