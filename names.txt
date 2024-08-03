@@ -1,2 +1,17 @@
-kunal kushwhaha
-praneetyh gourla
+cd
+
+ls , ls -a
+
+mkdir
+
+git init
+
+touch names.txt
+
+git status
+
+git add names.txt (To add specific files) 
+
+git add . (to add all files)
+
+git commit -m "Addeded names.txt"
