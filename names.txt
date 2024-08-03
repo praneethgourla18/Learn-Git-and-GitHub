@@ -66,3 +66,4 @@ so with this your forked update will be synced .
 1) After you push the changes to the forked repo now its time to open a pull request.
 
 2) You can see an option in your forked repo to open a pull request if the author of the repo accepts or merges the pull request your changes will be visible on main repo..
+Thats a wrap!
