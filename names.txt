@@ -19,3 +19,8 @@ git commit -m "Addeded names.txt"
  git restore --staged names.txt (if you dont want to commit it after staging it) but the file once commited cannot be uncommited
 
 git log (To view the history of commits)
+
+git reset commit_Id  (to go back to that commit means delete the commits until this one)
+
+
+git stash (to store them some where else backstage)
