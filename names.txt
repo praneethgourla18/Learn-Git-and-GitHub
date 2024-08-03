@@ -15,3 +15,7 @@ git add names.txt (To add specific files)
 git add . (to add all files)
 
 git commit -m "Addeded names.txt"
+
+ git restore --staged names.txt (if you dont want to commit it after staging it) but the file once commited cannot be uncommited
+
+git log (To view the history of commits)
